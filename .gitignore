@@ -1,0 +1,7 @@
+*.class
+*.jar
+!lib/*.jar
+*.log
+nohup.out
+resources/fakedb/
+.DS_Store
